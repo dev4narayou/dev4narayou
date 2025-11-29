@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-I'm a Melbourne-based software engineer focused on **backend, fullstack**, and **practical AI systems**.
+I’m a software engineer based in Melbourne, Australia.  
+I focus on **backend, fullstack**, and **practical AI systems**.
 
 ### Tech I Use
 **Languages:** Python · TypeScript · Java
